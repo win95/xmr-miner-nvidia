@@ -2,12 +2,12 @@
 
 :warning: **You must update miners to version 2.5 before April 6 due [Monero PoW change](https://getmonero.org/2018/02/11/PoW-change-and-key-reuse.html).**
 
-[![Github All Releases](https://img.shields.io/github/downloads/xmrig/xmrig-nvidia/total.svg)](https://github.com/xmrig/xmrig-nvidia/releases)
-[![GitHub release](https://img.shields.io/github/release/xmrig/xmrig-nvidia/all.svg)](https://github.com/xmrig/xmrig-nvidia/releases)
-[![GitHub Release Date](https://img.shields.io/github/release-date-pre/xmrig/xmrig-nvidia.svg)](https://github.com/xmrig/xmrig-nvidia/releases)
-[![GitHub license](https://img.shields.io/github/license/xmrig/xmrig-nvidia.svg)](https://github.com/xmrig/xmrig-nvidia/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/xmrig/xmrig-nvidia.svg)](https://github.com/xmrig/xmrig-nvidia/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/xmrig/xmrig-nvidia.svg)](https://github.com/xmrig/xmrig-nvidia/network)
+[![Github All Releases](https://img.shields.io/github/downloads/xmrig/xmrig-nvidia/total.svg)](https://github.com/win95/xmr-miner/releases)
+[![GitHub release](https://img.shields.io/github/release/xmrig/xmrig-nvidia/all.svg)](https://github.com/win95/xmr-miner/releases)
+[![GitHub Release Date](https://img.shields.io/github/release-date-pre/xmrig/xmrig-nvidia.svg)](https://github.com/win95/xmr-miner/releases)
+[![GitHub license](https://img.shields.io/github/license/xmrig/xmrig-nvidia.svg)](https://github.com/win95/xmr-miner/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/xmrig/xmrig-nvidia.svg)](https://github.com/win95/xmr-miner/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/xmrig/xmrig-nvidia.svg)](https://github.com/win95/xmr-miner/network)
 
 XMRig is high performance Monero (XMR) NVIDIA miner, with the official full Windows support.
 
@@ -16,7 +16,7 @@ GPU mining part based on [psychocrypt](https://github.com/psychocrypt) code used
 * This is the **NVIDIA GPU** mining version, there is also a [CPU version](https://github.com/xmrig/xmrig) and [AMD GPU version]( https://github.com/xmrig/xmrig-amd).
 * [Roadmap](https://github.com/xmrig/xmrig/issues/106) for next releases.
 
-:warning: Suggested values for GPU auto configuration can be not optimal or not working, you may need tweak your threads options. Please feel free open an [issue](https://github.com/xmrig/xmrig-nvidia/issues) if auto configuration suggest wrong values.
+:warning: Suggested values for GPU auto configuration can be not optimal or not working, you may need tweak your threads options. Please feel free open an [issue](https://github.com/win95/xmr-miner/issues) if auto configuration suggest wrong values.
 
 <img src="https://i.imgur.com/wRCZ3IJ.png" width="620" >
 
@@ -24,7 +24,7 @@ GPU mining part based on [psychocrypt](https://github.com/psychocrypt) code used
 * [Features](#features)
 * [Download](#download)
 * [Usage](#usage)
-* [Build](https://github.com/xmrig/xmrig-nvidia/wiki/Build)
+* [Build](https://github.com/win95/xmr-miner/wiki/Build)
 * [Donations](#donations)
 * [Release checksums](#release-checksums)
 * [Contacts](#contacts)
@@ -40,9 +40,9 @@ GPU mining part based on [psychocrypt](https://github.com/psychocrypt) code used
 * It's open source software.
 
 ## Download
-* Binary releases: https://github.com/xmrig/xmrig-nvidia/releases
+* Binary releases: https://github.com/win95/xmr-miner/releases
 * Git tree: https://github.com/xmrig/xmrig-nvidia.git
-  * Clone with `git clone https://github.com/xmrig/xmrig-nvidia.git`  :hammer: [Build instructions](https://github.com/xmrig/xmrig-nvidia/wiki/Build).
+  * Clone with `git clone https://github.com/xmrig/xmrig-nvidia.git`  :hammer: [Build instructions](https://github.com/win95/xmr-miner/wiki/Build).
 
 ## Usage
 Use [config.xmrig.com](https://config.xmrig.com/nvidia) to generate, edit or share configurations.
